@@ -34,7 +34,7 @@
 
 ```
 # Clonar repositório
-  $ git clone https://github.com/leovenom/happy-app.git
+  $ git clone https://github.com/leovenom/Happy.git
 
 # Acessar o diretório
   $ cd happy/web
