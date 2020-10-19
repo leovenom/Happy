@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/leovenom/happy-app/blob/main/web/src/images/Ilustra02.svg?w="350" alt="Happy">
+<img src="https://github.com/leovenom/Happy/blob/main/src/images/Ilustra02.svg?w="350" alt="Happy">
 </p>
 
 
@@ -48,10 +48,3 @@
 
 <h2>Variável de ambiente</h2>
 <p>Deverá ser gerado um token no site do MapBox e utlizado no arquivo <b>.env</b>.</p>
->>>>>>> 57a33bb229b05fcac2c15d8e7684221850ee0f80
-# Happy
-# Happy
-# Happy
-# Happy
-# Happy
-# Happy
