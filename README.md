@@ -50,3 +50,4 @@
 <p>Deverá ser gerado um token no site do MapBox e utlizado no arquivo <b>.env</b>.</p>
 >>>>>>> 57a33bb229b05fcac2c15d8e7684221850ee0f80
 # Happy
+# Happy
