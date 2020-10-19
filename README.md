@@ -5,13 +5,6 @@
 
 <h2>Tecnologias</h2>
 
-
-<h4>Projeto mobile</h4>
-<ul>
-<a href="https://reactnative.dev/"><li>React Native</li></a>
-<a href="https://reactnavigation.org/"><li>React Navigation</li></a>
-</ul>
-
 <h4>Projeto front-end</h4>
 <ul>
 <a href="https://reactjs.org/"><li>ReactJs</li></a>
