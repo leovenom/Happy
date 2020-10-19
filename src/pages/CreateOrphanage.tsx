@@ -21,7 +21,6 @@ export default function CreateOrphanage() {
 
   function handleMapClick(event: LeafletMouseEvent) {
     const { lat, lng} = event.latlng;
-
     setPosition({
       latitude: lat,
       longitude: lng,
@@ -47,7 +46,6 @@ export default function CreateOrphanage() {
     const { latitude, longitude } = position;
 
     const data = new FormData();
-
     data.append('name', name);
     data.append('about', about);
     data.append('latitude', String(latitude));
