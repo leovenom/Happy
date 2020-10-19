@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/juliocesarribeiro/happy/blob/master/web/src/images/logo.svg?w="350" alt="Happy">
+<img src="https://github.com/leovenom/happy-app/blob/main/web/src/images/Logo.svg?w="350" alt="Happy">
 </p>
 
 <h2>Tecnologias</h2>
