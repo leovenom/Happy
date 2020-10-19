@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# happy-app
-# happy-app
-# Happy
-# Happy
-# Happy
-# Happy
-# Happy
-=======
-
 <p align="center">
 <img src="https://github.com/leovenom/happy-app/blob/main/web/src/images/Ilustra02.svg?w="350" alt="Happy">
 </p>
